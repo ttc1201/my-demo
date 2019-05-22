@@ -1,2 +1,1 @@
-# my-demo
-...
+#This is an exercise library for learning Python
