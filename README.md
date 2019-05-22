@@ -1,1 +1,1 @@
-#This is an exercise library for learning Python
+#This is a python exercise repository for students
